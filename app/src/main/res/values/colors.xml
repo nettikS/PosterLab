@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="prim">#416AD3</color>
+    <color name="accent">#F45278</color>
+    <color name="textIcon">#FFFFFF</color>
+    <color name="textPrim">#27282B</color>
+    <color name="ratingAct">#D3BB41</color>
+    <color name="ratingInAct">#B1B1B1</color>
+    <color name="background">#EEEEEE</color>
+    <color name="check">#1FA81A</color>
+
+</resources>

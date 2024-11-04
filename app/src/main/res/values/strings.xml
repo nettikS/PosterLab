@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PosterLab</string>
+    <string name="header_text">Ryan</string>
+    <string name="add_to_watchlist">Add to Watchlist</string>
+</resources>
